@@ -1,0 +1,8 @@
+# Cryptography Challenge 2 (20 Points)
+
+Smartphone
+
+Format Flag KMIPN{}
+
+33355524 32777444 77776662555 44466444 232555244 44752388555
+
