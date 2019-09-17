@@ -4,11 +4,11 @@ Jeopardy Challenge KMIPN 2019
 
 ## Cryptography
 
-[Cryptography](Cryptography/README.md)
+[Cryptography](Cryptography)
 
 ## Forensic
 
-[Forensic](Forensic/README.md)
+[Forensic](Forensic)
 
 ## Pwn
 
@@ -16,10 +16,10 @@ Jeopardy Challenge KMIPN 2019
 
 ## Reversing
 
-[Reversing](Reversing/README.md)
+[Reversing](Reversing)
 
 ## Web
 
-[Web](Web/README.md)
+[Web](Web)
 
 
